@@ -1,0 +1,151 @@
+ID,Name,Age,Gender,City,Education,Salary,Experience,Department,Rating,Join_Date,Last_Promotion_Year
+1,Alice,22.0,Male,Delhi,Masters,,4.0,Sales,3.0,2023-03-01,2020.0
+2,Alice,25.0,Male,Bangalore,High School,60000.0,2.0,HR,5.0,2023-05-01,2020.0
+3,David,30.0,Female,Delhi,Masters,70000.0,3.0,HR,4.0,2023-01-01,2021.0
+4,Alice,22.0,Female,Mumbai,Bachelors,50000.0,2.0,Admin,5.0,2023-05-01,2022.0
+5,Charlie,25.0,Male,Mumbai,PhD,,1.0,nan,1.0,2023-01-01,2022.0
+6,Grace,,Male,Mumbai,Masters,60000.0,1.0,IT,,,
+7,Eva,30.0,Male,Mumbai,Masters,60000.0,,Finance,,2023-01-01,2022.0
+8,Charlie,30.0,Female,Mumbai,Bachelors,,2.0,Finance,,2023-01-01,2019.0
+9,Frank,30.0,Female,Kolkata,nan,50000.0,,Sales,3.0,2023-01-01,2019.0
+10,Charlie,22.0,Female,Bangalore,Bachelors,,5.0,HR,4.0,,2020.0
+11,Charlie,30.0,Female,Delhi,Bachelors,30000.0,8.0,Finance,2.0,2023-02-01,2023.0
+12,Grace,30.0,Female,Chennai,High School,40000.0,4.0,Sales,4.0,2023-02-01,2019.0
+13,Charlie,40.0,Female,Bangalore,Bachelors,60000.0,4.0,IT,,2023-05-01,2020.0
+14,Bob,25.0,Female,Delhi,Masters,60000.0,,Admin,2.0,2023-02-01,2023.0
+15,Alice,25.0,Female,Chennai,Bachelors,60000.0,2.0,Sales,3.0,2023-05-01,2023.0
+16,Alice,40.0,Male,nan,Bachelors,60000.0,5.0,HR,4.0,2023-03-01,2022.0
+17,Eva,22.0,Female,Delhi,Bachelors,40000.0,8.0,IT,1.0,2023-02-01,2022.0
+18,David,35.0,Female,Bangalore,PhD,30000.0,4.0,IT,4.0,2023-05-01,2020.0
+19,Eva,22.0,nan,nan,Masters,50000.0,2.0,IT,2.0,2023-04-01,2021.0
+20,Charlie,30.0,Male,Chennai,Masters,50000.0,5.0,Sales,4.0,2023-05-01,2022.0
+21,Alice,22.0,Male,Mumbai,Bachelors,30000.0,4.0,Sales,4.0,2023-01-01,2019.0
+22,David,40.0,Female,Bangalore,PhD,50000.0,5.0,Finance,2.0,2023-01-01,2020.0
+23,Bob,30.0,Male,Chennai,Bachelors,30000.0,2.0,Sales,5.0,2023-03-01,2019.0
+24,Frank,30.0,Male,Chennai,High School,70000.0,,Finance,,2023-02-01,2023.0
+25,Grace,40.0,Female,Chennai,PhD,,2.0,IT,1.0,2023-01-01,2022.0
+26,Charlie,22.0,Female,Delhi,PhD,50000.0,2.0,Finance,,2023-03-01,
+27,David,35.0,Female,Delhi,Masters,60000.0,5.0,Finance,1.0,2023-02-01,2021.0
+28,Eva,30.0,Male,Chennai,Masters,30000.0,3.0,Finance,3.0,2023-02-01,2019.0
+29,Eva,22.0,nan,Kolkata,Bachelors,60000.0,2.0,IT,4.0,2023-01-01,2020.0
+30,Bob,22.0,Female,Bangalore,nan,60000.0,4.0,IT,,2023-02-01,
+31,Frank,30.0,Female,Bangalore,Bachelors,30000.0,6.0,Finance,2.0,2023-04-01,2020.0
+32,Frank,,Male,Bangalore,Bachelors,60000.0,3.0,Sales,4.0,2023-02-01,2020.0
+33,David,22.0,Male,nan,Masters,50000.0,2.0,HR,2.0,2023-01-01,2023.0
+34,Eva,30.0,Female,Mumbai,Bachelors,40000.0,2.0,HR,2.0,2023-02-01,2019.0
+35,Eva,35.0,Female,Delhi,High School,50000.0,4.0,IT,4.0,2023-01-01,2019.0
+36,David,30.0,Male,Delhi,Bachelors,30000.0,5.0,HR,,2023-03-01,2021.0
+37,David,35.0,nan,Chennai,Bachelors,50000.0,3.0,HR,1.0,2023-01-01,2022.0
+38,David,35.0,Male,Chennai,Bachelors,30000.0,5.0,Sales,,2023-01-01,2019.0
+39,Bob,35.0,nan,Chennai,High School,60000.0,7.0,nan,2.0,,2019.0
+40,Bob,30.0,Female,nan,Masters,60000.0,3.0,Sales,1.0,2023-02-01,2022.0
+41,Frank,35.0,Female,Mumbai,Bachelors,60000.0,1.0,IT,4.0,2023-01-01,2022.0
+42,Grace,40.0,Male,Chennai,Bachelors,50000.0,2.0,HR,1.0,2023-01-01,2020.0
+43,David,30.0,Female,Chennai,Bachelors,60000.0,2.0,Sales,1.0,2023-02-01,2022.0
+44,Alice,35.0,nan,nan,PhD,40000.0,,Finance,,2023-01-01,
+45,Charlie,30.0,Male,Kolkata,Bachelors,40000.0,,HR,2.0,2023-02-01,2019.0
+46,Bob,30.0,Male,Mumbai,PhD,30000.0,5.0,Sales,1.0,2023-04-01,2021.0
+47,Bob,30.0,Female,Bangalore,High School,60000.0,,Admin,4.0,2023-04-01,2022.0
+48,Grace,30.0,Female,Mumbai,Bachelors,50000.0,4.0,IT,3.0,,2021.0
+49,David,25.0,Female,Bangalore,Bachelors,60000.0,2.0,IT,3.0,2023-04-01,2020.0
+50,Charlie,35.0,Female,Kolkata,PhD,60000.0,4.0,Sales,3.0,2023-01-01,2022.0
+51,Frank,30.0,Male,Bangalore,PhD,,2.0,Finance,3.0,2023-03-01,2020.0
+52,David,35.0,Female,Bangalore,PhD,60000.0,7.0,Admin,,,2020.0
+53,Alice,40.0,Male,Mumbai,Bachelors,60000.0,4.0,HR,4.0,2023-01-01,2020.0
+54,Grace,30.0,Female,Chennai,PhD,50000.0,6.0,Sales,2.0,2023-04-01,2020.0
+55,Bob,,Male,Mumbai,Bachelors,60000.0,5.0,Sales,,,2023.0
+56,Grace,,Female,Delhi,PhD,40000.0,1.0,IT,3.0,2023-02-01,2020.0
+57,Alice,30.0,Male,Bangalore,Masters,70000.0,3.0,IT,4.0,2023-01-01,2020.0
+58,Frank,30.0,Male,Bangalore,Bachelors,70000.0,8.0,HR,2.0,2023-01-01,2020.0
+59,Grace,35.0,Female,Mumbai,Bachelors,50000.0,,IT,4.0,2023-03-01,2021.0
+60,Eva,25.0,Male,Delhi,nan,50000.0,8.0,HR,1.0,2023-04-01,2021.0
+61,Charlie,30.0,Female,Delhi,Masters,50000.0,2.0,Admin,2.0,2023-05-01,2019.0
+62,Alice,,Male,Mumbai,PhD,70000.0,1.0,HR,4.0,2023-02-01,2019.0
+63,Alice,22.0,Male,nan,Masters,60000.0,5.0,Finance,3.0,2023-03-01,2021.0
+64,Charlie,35.0,Male,nan,High School,50000.0,3.0,Sales,2.0,2023-03-01,2019.0
+65,Frank,22.0,Female,Bangalore,Bachelors,40000.0,3.0,IT,5.0,2023-01-01,2022.0
+66,Charlie,30.0,Male,Delhi,Bachelors,50000.0,5.0,HR,5.0,2023-04-01,2019.0
+67,Bob,35.0,Female,Mumbai,Bachelors,60000.0,1.0,HR,,2023-01-01,2020.0
+68,Alice,25.0,Female,Mumbai,Masters,50000.0,4.0,HR,2.0,,2021.0
+69,Frank,30.0,Female,Bangalore,Bachelors,60000.0,6.0,HR,3.0,2023-01-01,2020.0
+70,Charlie,,Male,Chennai,Bachelors,70000.0,2.0,HR,3.0,2023-03-01,2021.0
+71,Grace,22.0,Female,Mumbai,Masters,60000.0,1.0,nan,3.0,2023-03-01,
+72,Bob,,Female,Bangalore,High School,60000.0,3.0,Sales,2.0,2023-03-01,2021.0
+73,Frank,35.0,Female,Chennai,Bachelors,30000.0,4.0,HR,4.0,2023-02-01,2022.0
+74,Eva,40.0,Male,Kolkata,Bachelors,,4.0,IT,4.0,2023-02-01,2021.0
+75,Charlie,35.0,Male,Kolkata,Masters,30000.0,7.0,Sales,3.0,2023-02-01,2020.0
+76,Alice,25.0,Female,Delhi,nan,60000.0,1.0,Finance,3.0,2023-04-01,2021.0
+77,David,,Male,Mumbai,Bachelors,40000.0,,Finance,1.0,2023-03-01,2022.0
+78,David,25.0,Male,Bangalore,Bachelors,50000.0,3.0,IT,2.0,2023-05-01,2019.0
+79,David,,Female,Bangalore,Bachelors,30000.0,1.0,IT,2.0,,2019.0
+80,Frank,35.0,Female,Mumbai,Bachelors,,3.0,IT,2.0,2023-03-01,2019.0
+81,Grace,40.0,Male,Delhi,Masters,60000.0,5.0,HR,3.0,2023-03-01,2021.0
+82,Alice,30.0,Male,nan,nan,70000.0,,nan,3.0,2023-04-01,2019.0
+83,Frank,22.0,Female,Bangalore,Bachelors,50000.0,2.0,Sales,1.0,2023-03-01,2020.0
+84,Bob,,nan,Chennai,Masters,,6.0,Sales,3.0,2023-02-01,2020.0
+85,Eva,30.0,nan,Bangalore,Bachelors,,2.0,Admin,5.0,,2021.0
+86,Charlie,30.0,Male,Kolkata,Bachelors,,4.0,IT,,2023-04-01,
+87,David,25.0,Female,Chennai,PhD,60000.0,,HR,5.0,2023-04-01,2020.0
+88,Grace,40.0,Male,Bangalore,Masters,70000.0,8.0,HR,5.0,,2019.0
+89,David,30.0,Male,Bangalore,Bachelors,60000.0,2.0,IT,3.0,2023-02-01,2019.0
+90,Eva,25.0,Female,Bangalore,Masters,50000.0,5.0,Sales,1.0,,
+91,Charlie,35.0,Male,Delhi,nan,40000.0,6.0,IT,4.0,2023-01-01,2020.0
+92,Grace,30.0,nan,Mumbai,Masters,40000.0,6.0,Sales,2.0,2023-01-01,2021.0
+93,Eva,30.0,Female,Bangalore,Bachelors,,1.0,Sales,1.0,2023-04-01,2022.0
+94,David,25.0,Female,nan,High School,40000.0,1.0,Sales,5.0,2023-01-01,2020.0
+95,Bob,30.0,Male,Mumbai,Masters,30000.0,1.0,Sales,2.0,2023-02-01,2019.0
+96,Alice,30.0,Male,Mumbai,Bachelors,50000.0,1.0,IT,3.0,2023-03-01,2021.0
+97,Eva,30.0,Female,Delhi,Bachelors,60000.0,6.0,Finance,1.0,2023-01-01,
+98,David,25.0,Female,Delhi,Bachelors,,5.0,HR,3.0,2023-01-01,2022.0
+99,Eva,30.0,Female,Chennai,PhD,,4.0,IT,3.0,2023-04-01,2021.0
+100,Frank,,Female,Mumbai,Bachelors,60000.0,2.0,Finance,4.0,2023-02-01,2021.0
+101,Grace,30.0,Male,Bangalore,Bachelors,30000.0,4.0,IT,3.0,2023-03-01,2020.0
+102,Grace,25.0,Male,Mumbai,Masters,70000.0,,HR,4.0,2023-01-01,2021.0
+103,Grace,22.0,Female,Mumbai,High School,50000.0,2.0,Sales,,2023-01-01,2021.0
+104,Charlie,30.0,Female,Mumbai,PhD,60000.0,4.0,Finance,,2023-02-01,
+105,Charlie,25.0,Female,Bangalore,Masters,40000.0,3.0,IT,,2023-05-01,2022.0
+106,Eva,30.0,Male,Delhi,nan,40000.0,4.0,HR,5.0,2023-05-01,2022.0
+107,Charlie,22.0,Male,Delhi,nan,,,IT,4.0,2023-03-01,2021.0
+108,Frank,30.0,Female,Bangalore,Masters,60000.0,1.0,Sales,2.0,2023-04-01,2021.0
+109,Eva,25.0,Male,Chennai,Bachelors,60000.0,7.0,HR,3.0,2023-04-01,2019.0
+110,Bob,30.0,Male,nan,Bachelors,30000.0,7.0,Finance,2.0,2023-03-01,2020.0
+111,Charlie,25.0,nan,Kolkata,Masters,60000.0,4.0,IT,3.0,2023-04-01,2021.0
+112,Grace,25.0,Female,Mumbai,Bachelors,40000.0,,HR,2.0,2023-02-01,2021.0
+113,Charlie,40.0,Male,Delhi,Bachelors,50000.0,,Admin,1.0,2023-01-01,2020.0
+114,Grace,,Female,Chennai,Masters,40000.0,7.0,nan,4.0,2023-01-01,2020.0
+115,Alice,40.0,Male,Kolkata,High School,60000.0,5.0,Finance,2.0,2023-01-01,2022.0
+116,Charlie,30.0,Female,Kolkata,Bachelors,60000.0,8.0,Sales,3.0,,2021.0
+117,Charlie,22.0,Female,Mumbai,PhD,60000.0,5.0,Finance,3.0,2023-04-01,2023.0
+118,David,35.0,Male,nan,Bachelors,60000.0,8.0,IT,3.0,2023-04-01,2021.0
+119,Frank,25.0,Male,Bangalore,High School,30000.0,2.0,nan,4.0,2023-03-01,2021.0
+120,Eva,30.0,Female,Chennai,Masters,60000.0,3.0,HR,3.0,2023-04-01,2020.0
+121,Grace,30.0,Female,nan,Bachelors,70000.0,6.0,HR,1.0,,
+122,Charlie,35.0,Female,Delhi,Masters,,5.0,HR,,,2023.0
+123,Eva,30.0,Female,Chennai,Bachelors,70000.0,2.0,HR,3.0,2023-01-01,2021.0
+124,David,30.0,Female,Kolkata,Masters,50000.0,2.0,IT,5.0,2023-04-01,2019.0
+125,Frank,30.0,nan,Delhi,Bachelors,60000.0,5.0,IT,4.0,2023-03-01,2020.0
+126,Bob,25.0,Male,Delhi,Bachelors,60000.0,6.0,Finance,3.0,2023-01-01,2019.0
+127,Alice,22.0,Male,Bangalore,Bachelors,50000.0,2.0,Sales,2.0,,2021.0
+128,Alice,25.0,Male,Kolkata,Bachelors,,5.0,IT,3.0,2023-01-01,2021.0
+129,Frank,35.0,Male,Bangalore,Bachelors,50000.0,1.0,IT,3.0,2023-02-01,2022.0
+130,Bob,,Female,Mumbai,High School,50000.0,3.0,IT,2.0,2023-03-01,2021.0
+131,Grace,40.0,Female,Chennai,Masters,70000.0,2.0,Sales,,2023-01-01,2021.0
+132,Grace,30.0,Female,Delhi,High School,40000.0,4.0,nan,4.0,,2023.0
+133,Frank,40.0,Female,Delhi,nan,,,IT,3.0,2023-03-01,2020.0
+134,Grace,30.0,Male,nan,Masters,50000.0,8.0,Admin,2.0,,2022.0
+135,Charlie,22.0,Male,Mumbai,High School,30000.0,8.0,Finance,4.0,2023-01-01,2019.0
+136,Eva,40.0,Female,Delhi,Masters,,1.0,Admin,3.0,,2020.0
+137,Charlie,30.0,Male,Kolkata,PhD,60000.0,,Sales,5.0,2023-01-01,2019.0
+138,David,22.0,Male,Chennai,High School,70000.0,6.0,Sales,5.0,2023-02-01,2021.0
+139,Grace,40.0,Male,nan,Bachelors,,7.0,HR,4.0,,2020.0
+140,David,,nan,Chennai,PhD,50000.0,,Sales,1.0,2023-04-01,2021.0
+141,Grace,25.0,Male,Chennai,nan,30000.0,4.0,Sales,2.0,2023-05-01,2019.0
+142,Bob,30.0,Female,Chennai,nan,30000.0,6.0,Sales,5.0,2023-02-01,2021.0
+143,Charlie,40.0,Male,Chennai,Bachelors,60000.0,5.0,Sales,5.0,2023-03-01,2022.0
+144,David,30.0,nan,Bangalore,Bachelors,40000.0,5.0,HR,1.0,2023-03-01,2019.0
+145,Alice,25.0,Female,nan,Bachelors,50000.0,6.0,Finance,2.0,2023-05-01,2023.0
+146,Bob,40.0,Female,Mumbai,nan,70000.0,2.0,Finance,4.0,2023-01-01,2023.0
+147,Frank,25.0,Male,Bangalore,High School,50000.0,3.0,Finance,,2023-02-01,2021.0
+148,Frank,40.0,Female,nan,PhD,60000.0,,Finance,1.0,2023-03-01,
+149,Bob,25.0,Male,Delhi,Bachelors,40000.0,,HR,5.0,2023-04-01,2021.0
+150,Frank,22.0,Female,Delhi,Masters,,5.0,IT,,2023-05-01,2022.0
